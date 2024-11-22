@@ -1,0 +1,14 @@
+\documentclass[../main.tex]{subfile}
+\begin{document}
+    The goal of this project is to provide a global wind system for your games inspiered by the laws of electrostatics. After placing 
+    some wind source and well you will obtain a three dimensional force field that can be used to move the object and the trees around.
+    The wind direction can then make some spirals etc and is complexer than a global wind direction for the map.
+    For the fine tuning you can add some boosters at certain locations and give them a direction to boost at. The trees and the particle
+    system can follow the wind movement resulting in a great world dynamic.\\
+
+    The system can evolve with the time if you want or just be static an calculated at the beggining. The complexity of the
+    calculation grows linearly with the number of source/well/boosters.
+    A 2D texture carries the force field to the shader to allow the verticies of your trees, fabric etc to move in the correct direction.
+    Moreover a phase factor can be taken into account to allow different response to the wind field depending on the material.
+    For exemple a bigger tree will react with a small delay compared to a fir tree.
+\end{document}

@@ -1,0 +1,53 @@
+\relax 
+\providecommand \babel@aux [2]{\global \let \babel@toc \@gobbletwo }
+\@nameuse{bbl@beforestart}
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand\HyField@AuxAddToFields[1]{}
+\providecommand\HyField@AuxAddToCoFields[2]{}
+\abx@aux@refcontext{ynt/global//global/global/global}
+\babel@aux{english}{}
+\babel@aux{english}{}
+\@writefile{toc}{\contentsline {section}{\numberline {1}How to use}{2}{section.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces The four relevant components. The two outlined are the core components and the other one are cosmetics.}}{2}{figure.caption.3}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces The three types of extremas. The green, orange and yellow debug circles gie you the radius at wich wr have 25, 50 and 75\% of the influence.}}{2}{figure.caption.4}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces The wind manager. The green parameter stays how much wind tails will spawn arround the player.}}{3}{figure.caption.5}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces The parameter collection to let the system now about the world size.}}{4}{figure.caption.6}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces The wind sampler tool. Please reference the wind manager or this wont work properly.}}{5}{figure.caption.7}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces The use of the materal function.}}{5}{figure.caption.8}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {2}Physical principle}{5}{section.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}The force field}{5}{subsection.2.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Derivation of a position update}{6}{subsection.2.2}\protected@file@percent }
+\newlabel{eq:position}{{4}{6}{Derivation of a position update}{equation.4}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Using the force field}{6}{section.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Optimising the use}{7}{subsection.3.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces The timer updates the force at the time $t_s$, we compute the force at the location $\bm  {r}(t_s)$. A factor of $10$ is used. You can modify it as you want to.}}{7}{figure.caption.10}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Implementation of the motion}{7}{subsection.3.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces A the frame $t+\Delta _t$ we multiply the acceleration by $0.5\Delta _t^2$, the velocity with $\Delta _t$ and add it to the location from the previous update $\bm  {r}(t)$. \textit  {After} the translation we update the velocity to be used on the next frame. If we update the velocity before the translation we are going to have $\bm  {r}(t) - \bm  {r}(t) = 0$. The last tick postion variable is used to compare before and after the update.}}{8}{figure.caption.11}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Moving the tail around its center}{8}{subsection.3.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{SwingZ mode}{8}{section*.12}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces The tail is moving around the center of the actor. The oscillation is done by a sinusoidal function.}}{8}{figure.caption.13}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Spiral rotation mode}{9}{section*.14}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces The particle is moving around the center of the tail. The rotation is done by a different sinusoidal function on each axis, perpendicular to the movement direction of the tail.}}{9}{figure.caption.15}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}The tail lifetime cycle}{9}{subsection.3.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4}Shader computation and foliage}{9}{section.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Capturing the 2D texture}{10}{subsection.4.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Getting the plane $xy$-coordinates}{10}{section*.16}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {11}{\ignorespaces The transformation from the world coordinate to the UV coordinate. The \texttt  {World Size} scalar parameter is the world side length $m$. In the default UE5 project this is $200k$ units. You should set it to the size of your world. If too small you may see the wind patern repeat itself and having some discontinuities on the edges. On the other hand, if too big, you will project only a part of the world on the texture.}}{11}{figure.caption.17}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {12}{\ignorespaces How we determine the pixel location from the world position. The texture beeing $64\times 64$ pixels, a U of 1 corresponds to 64 pixels.}}{11}{figure.caption.18}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Getting the $z$-coordinate}{11}{section*.19}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Writing the wind}{12}{subsection.4.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {13}{\ignorespaces We treat our signal as the force and map every component between 0 and 1 according to the upper scheme.}}{12}{figure.caption.21}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Achieving dynamic shader wind}{12}{section*.22}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {14}{\ignorespaces The interpolation function used to blend between the two textures. The actual shader interpolation is just a lerp between the two textures and is found in \texttt  {MF\_WindDeform}.}}{13}{figure.caption.23}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Applying the wind on the foliage}{13}{subsection.4.3}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {15}{\ignorespaces The propagating oscillation as an amplitude dependent of the location. The sine wave is then shifted to have only positive values.}}{14}{figure.caption.24}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {16}{\ignorespaces The final displacement of the tree. The oscillation is multiplied with the wind vector to get the final displacement.}}{15}{figure.caption.25}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {17}{\ignorespaces The gradient displacement of the tree. The top of the tree is fully displaced by the wind while the bottom is fixed. This scalar just multiplies the displacement we descriped.}}{15}{figure.caption.26}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4}Complexer movement}{15}{subsection.4.4}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {18}{\ignorespaces The possbility to activate the passive leaf shake and the global complexer wind patern involving bursts and chill oscillations.}}{16}{figure.caption.28}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5}Beyond the scope}{16}{section.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Temerature, perturbations etc.}{17}{section*.29}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Todos}{17}{subsection.5.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Questions?}{17}{subsection.5.2}\protected@file@percent }
+\abx@aux@read@bbl@mdfivesum{nobblfile}
+\gdef \@abspage@last{18}
