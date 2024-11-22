@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.16)  23 NOV 2024 00:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.16)  23 NOV 2024 00:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1382,7 +1382,7 @@ LaTeX Font Info:    Trying to load font information for U+stmry on input line 1
 <Ressources/Thumbnail.png, id=74, 1147.28625pt x 746.79pt>
 File: Ressources/Thumbnail.png Graphic file (type png)
 <use Ressources/Thumbnail.png>
-Package pdftex.def Info: Ressources/Thumbnail.png  used on input line 147.
+Package pdftex.def Info: Ressources/Thumbnail.png  used on input line 148.
 (pdftex.def)             Requested size: 411.22214pt x 267.67049pt.
 
 
@@ -1410,7 +1410,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.179 \newpage
+l.180 \newpage
                [1] (Pages/5_HowToUse.tex
 <Ressources/Files.png, id=108, 499.11469pt x 177.66376pt>
 File: Ressources/Files.png Graphic file (type png)
@@ -1729,7 +1729,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 16.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 16.
 )
+Underfull \hbox (badness 10000) in paragraph at lines 16--188
+
+ []
+
+
 
 [17] (documentation.aux)
  ***********
@@ -1743,11 +1752,11 @@ Package logreq Info: Writing requests to 'documentation.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 57795 strings out of 473681
- 1375746 string characters out of 5729093
+ 57840 strings out of 473681
+ 1376252 string characters out of 5729093
  2343444 words of memory out of 5000000
- 80066 multiletter control sequences out of 15000+600000
- 574278 words of font info for 103 fonts, out of 8000000 for 9000
+ 80093 multiletter control sequences out of 15000+600000
+ 579847 words of font info for 125 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,17n,93p,732b,2152s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Progra
@@ -1758,13 +1767,15 @@ sfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmm
 ib10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmmib7.pf
 b><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program
  Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12
-.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on documentation.pdf (18 pages, 12067107 bytes).
+/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program
+ Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on documentation.pdf (18 pages, 12089015 bytes).
 PDF statistics:
- 330 PDF objects out of 1000 (max. 8388607)
- 69 named destinations out of 1000 (max. 500000)
+ 343 PDF objects out of 1000 (max. 8388607)
+ 70 named destinations out of 1000 (max. 500000)
  249 words of extra memory for PDF output out of 10000 (max. 10000000)
 

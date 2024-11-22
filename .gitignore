@@ -74,3 +74,12 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 .vsconfig
+
+# Logs LATEX
+
+Documentation/*.log
+Documentation/*.aux
+Documentation/*.bcf
+Documentation/*.xml
+Documentation/*.out
+Documentation/*.toc
