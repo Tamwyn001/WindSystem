@@ -77,9 +77,10 @@ DerivedDataCache/*
 
 # Logs LATEX
 
-Documentation/*.log
-Documentation/*.aux
-Documentation/*.bcf
-Documentation/*.xml
-Documentation/*.out
-Documentation/*.toc
+./**/*.log
+./**/*.aux
+./**/*.bcf
+./**/*.run.xml
+./**/*.out
+./**/*.toc
+Documentation/documentation.toc

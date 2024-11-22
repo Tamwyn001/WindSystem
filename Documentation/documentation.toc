@@ -14,7 +14,7 @@
 \contentsline {section}{\numberline {4}Shader computation and foliage}{9}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Capturing the 2D texture}{10}{subsection.4.1}%
 \contentsline {paragraph}{Getting the plane $xy$-coordinates}{10}{section*.16}%
-\contentsline {paragraph}{Gettingsdthe $z$-coordinate}{11}{section*.19}%
+\contentsline {paragraph}{Getting the $z$-coordinate}{11}{section*.19}%
 \contentsline {subsection}{\numberline {4.2}Writing the wind}{12}{subsection.4.2}%
 \contentsline {paragraph}{Achieving dynamic shader wind}{12}{section*.22}%
 \contentsline {subsection}{\numberline {4.3}Applying the wind on the foliage}{13}{subsection.4.3}%

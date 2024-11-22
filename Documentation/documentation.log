@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.16)  23 NOV 2024 00:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.16)  23 NOV 2024 00:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1420,12 +1420,12 @@ Package pdftex.def Info: Ressources/Files.png  used on input line 6.
 <Ressources/WindExtrema.png, id=110, 1263.21938pt x 828.84656pt>
 File: Ressources/WindExtrema.png Graphic file (type png)
 <use Ressources/WindExtrema.png>
-Package pdftex.def Info: Ressources/WindExtrema.png  used on input line 13.
+Package pdftex.def Info: Ressources/WindExtrema.png  used on input line 15.
 (pdftex.def)             Requested size: 411.22214pt x 269.81459pt.
 <Ressources/WindManager.png, id=111, 1263.21938pt x 828.84656pt>
 File: Ressources/WindManager.png Graphic file (type png)
 <use Ressources/WindManager.png>
-Package pdftex.def Info: Ressources/WindManager.png  used on input line 19.
+Package pdftex.def Info: Ressources/WindManager.png  used on input line 21.
 (pdftex.def)             Requested size: 411.22214pt x 269.81459pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1436,7 +1436,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <Ressources/WorldSize.png, id=119, 764.10469pt x 679.03688pt>
 File: Ressources/WorldSize.png Graphic file (type png)
 <use Ressources/WorldSize.png>
-Package pdftex.def Info: Ressources/WorldSize.png  used on input line 26.
+Package pdftex.def Info: Ressources/WorldSize.png  used on input line 28.
 (pdftex.def)             Requested size: 411.22214pt x 365.44147pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1447,7 +1447,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <Ressources/WindSampler.png, id=126, 1263.21938pt x 828.84656pt>
 File: Ressources/WindSampler.png Graphic file (type png)
 <use Ressources/WindSampler.png>
-Package pdftex.def Info: Ressources/WindSampler.png  used on input line 32.
+Package pdftex.def Info: Ressources/WindSampler.png  used on input line 34.
 (pdftex.def)             Requested size: 411.22214pt x 269.81459pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1458,7 +1458,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <Ressources/MaterialInstance.png, id=132, 744.53156pt x 360.59718pt>
 File: Ressources/MaterialInstance.png Graphic file (type png)
 <use Ressources/MaterialInstance.png>
-Package pdftex.def Info: Ressources/MaterialInstance.png  used on input line 38
+Package pdftex.def Info: Ressources/MaterialInstance.png  used on input line 40
 .
 (pdftex.def)             Requested size: 308.4166pt x 149.37543pt.
 ) (Pages/1_PhysicalTheorie.tex
@@ -1773,7 +1773,7 @@ ublic/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts
 ><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program
  Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTe
 X/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on documentation.pdf (18 pages, 12089015 bytes).
+Output written on documentation.pdf (18 pages, 12089310 bytes).
 PDF statistics:
  343 PDF objects out of 1000 (max. 8388607)
  70 named destinations out of 1000 (max. 500000)
