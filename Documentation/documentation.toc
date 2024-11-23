@@ -1,26 +1,27 @@
 \babel@toc {english}{}\relax 
 \babel@toc {english}{}\relax 
 \contentsline {section}{\numberline {1}How to use}{2}{section.1}%
-\contentsline {section}{\numberline {2}Physical principle}{5}{section.2}%
-\contentsline {subsection}{\numberline {2.1}The force field}{5}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Derivation of a position update}{6}{subsection.2.2}%
-\contentsline {section}{\numberline {3}Using the force field}{6}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Optimising the use}{7}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Implementation of the motion}{7}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Moving the tail around its center}{8}{subsection.3.3}%
-\contentsline {paragraph}{SwingZ mode}{8}{section*.12}%
-\contentsline {paragraph}{Spiral rotation mode}{9}{section*.14}%
-\contentsline {subsection}{\numberline {3.4}The tail lifetime cycle}{9}{subsection.3.4}%
-\contentsline {section}{\numberline {4}Shader computation and foliage}{9}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Capturing the 2D texture}{10}{subsection.4.1}%
-\contentsline {paragraph}{Getting the plane $xy$-coordinates}{10}{section*.16}%
-\contentsline {paragraph}{Getting the $z$-coordinate}{11}{section*.19}%
-\contentsline {subsection}{\numberline {4.2}Writing the wind}{12}{subsection.4.2}%
-\contentsline {paragraph}{Achieving dynamic shader wind}{12}{section*.22}%
-\contentsline {subsection}{\numberline {4.3}Applying the wind on the foliage}{13}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Complexer movement}{15}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Shader cost}{17}{subsection.4.5}%
-\contentsline {section}{\numberline {5}Beyond the scope}{17}{section.5}%
-\contentsline {paragraph}{Temerature, perturbations etc.}{17}{section*.30}%
-\contentsline {subsection}{\numberline {5.1}Todos}{17}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Questions?}{17}{subsection.5.2}%
+\contentsline {subsection}{\numberline {1.1}Exemples}{5}{subsection.1.1}%
+\contentsline {section}{\numberline {2}Physical principle}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}The force field}{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Derivation of a position update}{7}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Using the force field}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Optimising the use}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Implementation of the motion}{8}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Moving the tail around its center}{9}{subsection.3.3}%
+\contentsline {paragraph}{SwingZ mode}{9}{section*.13}%
+\contentsline {paragraph}{Spiral rotation mode}{10}{section*.15}%
+\contentsline {subsection}{\numberline {3.4}The tail lifetime cycle}{10}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Shader computation and foliage}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Capturing the 2D texture}{11}{subsection.4.1}%
+\contentsline {paragraph}{Getting the plane $xy$-coordinates}{11}{section*.17}%
+\contentsline {paragraph}{Getting the $z$-coordinate}{12}{section*.20}%
+\contentsline {subsection}{\numberline {4.2}Writing the wind}{13}{subsection.4.2}%
+\contentsline {paragraph}{Achieving dynamic shader wind}{13}{section*.23}%
+\contentsline {subsection}{\numberline {4.3}Applying the wind on the foliage}{14}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Complexer movement}{16}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Shader cost}{18}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Beyond the scope}{18}{section.5}%
+\contentsline {paragraph}{Temerature, perturbations etc.}{18}{section*.31}%
+\contentsline {subsection}{\numberline {5.1}Todos}{18}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Questions?}{18}{subsection.5.2}%
