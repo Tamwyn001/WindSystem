@@ -369,3 +369,13 @@ movements, check the \texttt{Is a leaf} parameter\\
     \includegraphics[width=1\textwidth]{Ressources/ComplexeWave.png}
     \caption{The possbility to activate the passive leaf shake and the global complexer wind patern involving bursts and chill oscillations.}
 \end{figure}
+
+\subsection{Shader cost}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1\textwidth]{Ressources/Opti.png}
+    \caption{The cost of the shader. The cost is arround 220 instructions.}
+    \end{figure}
+If you have some fps drop you may desactivate the TSR \texttt{r.AntiAliasingMethod 3} or maybe lumen \texttt{r.DynamicGlobalIlluminationMethod 0}.
+You should check the LOD of the trees as well. The shader is not very demanding but the more trees you have the more it will cost to render.\\
+\end{document}
