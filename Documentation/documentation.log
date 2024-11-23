@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.16)  23 NOV 2024 01:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.16)  23 NOV 2024 01:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1379,7 +1379,7 @@ LaTeX Font Info:    Trying to load font information for U+stmry on input line 1
 24.
 
 (C:\Program Files\MiKTeX\tex/latex/stmaryrd\ustmry.fd)
-<Ressources/Thumbnail.png, id=66, 1147.28625pt x 746.79pt>
+<Ressources/Thumbnail.png, id=82, 1147.28625pt x 746.79pt>
 File: Ressources/Thumbnail.png Graphic file (type png)
 <use Ressources/Thumbnail.png>
 Package pdftex.def Info: Ressources/Thumbnail.png  used on input line 148.
@@ -1394,7 +1394,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--8
 
  []
 
-) (documentation.toc)
+) (documentation.toc
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 4.
+)
 \tf@toc=\write6
 \openout6 = `documentation.toc'.
 
@@ -1407,17 +1412,17 @@ been already used, duplicate ignored
                    \relax 
 l.180 \newpage
                [1] (Pages/5_HowToUse.tex
-<Ressources/Files.png, id=83, 499.11469pt x 177.66376pt>
+<Ressources/Files.png, id=118, 499.11469pt x 177.66376pt>
 File: Ressources/Files.png Graphic file (type png)
 <use Ressources/Files.png>
 Package pdftex.def Info: Ressources/Files.png  used on input line 6.
 (pdftex.def)             Requested size: 205.61107pt x 73.18689pt.
-<Ressources/WindExtrema.png, id=85, 1263.21938pt x 828.84656pt>
+<Ressources/WindExtrema.png, id=120, 1263.21938pt x 828.84656pt>
 File: Ressources/WindExtrema.png Graphic file (type png)
 <use Ressources/WindExtrema.png>
 Package pdftex.def Info: Ressources/WindExtrema.png  used on input line 15.
 (pdftex.def)             Requested size: 411.22214pt x 269.81459pt.
-<Ressources/WindManager.png, id=86, 1263.21938pt x 828.84656pt>
+<Ressources/WindManager.png, id=121, 1263.21938pt x 828.84656pt>
 File: Ressources/WindManager.png Graphic file (type png)
 <use Ressources/WindManager.png>
 Package pdftex.def Info: Ressources/WindManager.png  used on input line 21.
@@ -1428,7 +1433,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [2 <./Ressources/Files.png> <./Ressources/WindExtrema.png>]
-<Ressources/WorldSize.png, id=94, 764.10469pt x 679.03688pt>
+<Ressources/WorldSize.png, id=129, 764.10469pt x 679.03688pt>
 File: Ressources/WorldSize.png Graphic file (type png)
 <use Ressources/WorldSize.png>
 Package pdftex.def Info: Ressources/WorldSize.png  used on input line 28.
@@ -1439,7 +1444,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [3 <./Ressources/WindManager.png>]
-<Ressources/WindSampler.png, id=101, 1263.21938pt x 828.84656pt>
+<Ressources/WindSampler.png, id=136, 1263.21938pt x 828.84656pt>
 File: Ressources/WindSampler.png Graphic file (type png)
 <use Ressources/WindSampler.png>
 Package pdftex.def Info: Ressources/WindSampler.png  used on input line 34.
@@ -1450,33 +1455,33 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [4 <./Ressources/WorldSize.png>]
-<Ressources/MaterialInstance.png, id=107, 744.53156pt x 360.59718pt>
+<Ressources/MaterialInstance.png, id=142, 744.53156pt x 360.59718pt>
 File: Ressources/MaterialInstance.png Graphic file (type png)
 <use Ressources/MaterialInstance.png>
 Package pdftex.def Info: Ressources/MaterialInstance.png  used on input line 40
 .
 (pdftex.def)             Requested size: 308.4166pt x 149.37543pt.
-<Ressources/Map1.png, id=108, 712.91344pt x 709.90219pt>
+<Ressources/Map1.png, id=143, 712.91344pt x 709.90219pt>
 File: Ressources/Map1.png Graphic file (type png)
 <use Ressources/Map1.png>
 Package pdftex.def Info: Ressources/Map1.png  used on input line 54.
 (pdftex.def)             Requested size: 185.0487pt x 184.2669pt.
-<Ressources/Map5.png, id=109, 707.64375pt x 714.41907pt>
+<Ressources/Map5.png, id=144, 707.64375pt x 714.41907pt>
 File: Ressources/Map5.png Graphic file (type png)
 <use Ressources/Map5.png>
 Package pdftex.def Info: Ressources/Map5.png  used on input line 58.
 (pdftex.def)             Requested size: 185.0487pt x 186.81288pt.
-<Ressources/Map3.png, id=110, 674.52pt x 647.41875pt>
+<Ressources/Map3.png, id=145, 674.52pt x 647.41875pt>
 File: Ressources/Map3.png Graphic file (type png)
 <use Ressources/Map3.png>
 Package pdftex.def Info: Ressources/Map3.png  used on input line 62.
 (pdftex.def)             Requested size: 185.0487pt x 177.61098pt.
-<Ressources/Map4.png, id=111, 658.71094pt x 664.73344pt>
+<Ressources/Map4.png, id=146, 658.71094pt x 664.73344pt>
 File: Ressources/Map4.png Graphic file (type png)
 <use Ressources/Map4.png>
 Package pdftex.def Info: Ressources/Map4.png  used on input line 66.
 (pdftex.def)             Requested size: 185.0487pt x 186.73267pt.
-<Ressources/Map3D.png, id=112, 601.4972pt x 596.98032pt>
+<Ressources/Map3D.png, id=147, 601.4972pt x 596.98032pt>
 File: Ressources/Map3D.png Graphic file (type png)
 <use Ressources/Map3D.png>
 Package pdftex.def Info: Ressources/Map3D.png  used on input line 70.
@@ -1505,11 +1510,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--12
 
 [6 <./Ressources/Map1.png> <./Ressources/Map5.png> <./Ressources/Map3.png> <./R
 essources/Map4.png> <./Ressources/Map3D.png>]
-LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 13.
-LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 13.
-<Ressources/GetWindAtLoc.png, id=131, 257.46187pt x 114.4275pt>
+<Ressources/GetWindAtLoc.png, id=166, 257.46187pt x 114.4275pt>
 File: Ressources/GetWindAtLoc.png Graphic file (type png)
 <use Ressources/GetWindAtLoc.png>
 Package pdftex.def Info: Ressources/GetWindAtLoc.png  used on input line 36.
@@ -1519,7 +1520,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--3
 
  []
 
-<Ressources/TailUpdateForce.png, id=132, 744.53156pt x 373.395pt>
+<Ressources/TailUpdateForce.png, id=167, 744.53156pt x 373.395pt>
 File: Ressources/TailUpdateForce.png Graphic file (type png)
 <use Ressources/TailUpdateForce.png>
 Package pdftex.def Info: Ressources/TailUpdateForce.png  used on input line 16.
@@ -1537,7 +1538,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--34
 
  []
 
-<Ressources/TailUpdateLocation.png, id=151, 1123.19624pt x 525.46312pt>
+<Ressources/TailUpdateLocation.png, id=186, 1123.19624pt x 525.46312pt>
 File: Ressources/TailUpdateLocation.png Graphic file (type png)
 <use Ressources/TailUpdateLocation.png>
 Package pdftex.def Info: Ressources/TailUpdateLocation.png  used on input line 
@@ -1558,7 +1559,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--49
 
  []
 
-<Ressources/TailSwingZ.png, id=160, 763.35187pt x 356.83313pt>
+<Ressources/TailSwingZ.png, id=195, 763.35187pt x 356.83313pt>
 File: Ressources/TailSwingZ.png Graphic file (type png)
 <use Ressources/TailSwingZ.png>
 Package pdftex.def Info: Ressources/TailSwingZ.png  used on input line 59.
@@ -1566,7 +1567,7 @@ Package pdftex.def Info: Ressources/TailSwingZ.png  used on input line 59.
 
 
 [9 <./Ressources/TailUpdateLocation.png> <./Ressources/TailSwingZ.png>]
-<Ressources/TailRotation.png, id=171, 938.00438pt x 496.85625pt>
+<Ressources/TailRotation.png, id=206, 938.00438pt x 496.85625pt>
 File: Ressources/TailRotation.png Graphic file (type png)
 <use Ressources/TailRotation.png>
 Package pdftex.def Info: Ressources/TailRotation.png  used on input line 72.
@@ -1604,7 +1605,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--61
 
  []
 
-<Ressources/RealSpaceToUV.png, id=180, 922.94812pt x 309.40594pt>
+<Ressources/RealSpaceToUV.png, id=215, 922.94812pt x 309.40594pt>
 File: Ressources/RealSpaceToUV.png Graphic file (type png)
 <use Ressources/RealSpaceToUV.png>
 Package pdftex.def Info: Ressources/RealSpaceToUV.png  used on input line 66.
@@ -1615,7 +1616,7 @@ Underfull \vbox (badness 1895) has occurred while \output is active []
 
 
 [11]
-<Ressources/WritePixelAtLoca.png, id=186, 1063.72406pt x 447.17062pt>
+<Ressources/WritePixelAtLoca.png, id=221, 1063.72406pt x 447.17062pt>
 File: Ressources/WritePixelAtLoca.png Graphic file (type png)
 <use Ressources/WritePixelAtLoca.png>
 Package pdftex.def Info: Ressources/WritePixelAtLoca.png  used on input line 75
@@ -1642,7 +1643,7 @@ Underfull \vbox (badness 1297) has occurred while \output is active []
 
 
 [12 <./Ressources/RealSpaceToUV.png> <./Ressources/WritePixelAtLoca.png>]
-<Ressources/ColorEncode.png, id=197, 596.98032pt x 248.42813pt>
+<Ressources/ColorEncode.png, id=232, 596.98032pt x 248.42813pt>
 File: Ressources/ColorEncode.png Graphic file (type png)
 <use Ressources/ColorEncode.png>
 Package pdftex.def Info: Ressources/ColorEncode.png  used on input line 162.
@@ -1664,7 +1665,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 214--221
 
  []
 
-<Ressources/AlphaInterpolation.png, id=206, 1263.97218pt x 504.38437pt>
+<Ressources/AlphaInterpolation.png, id=241, 1263.97218pt x 504.38437pt>
 File: Ressources/AlphaInterpolation.png Graphic file (type png)
 <use Ressources/AlphaInterpolation.png>
 Package pdftex.def Info: Ressources/AlphaInterpolation.png  used on input line 
@@ -1687,7 +1688,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 247--249
 
  []
 
-<Ressources/PropagatingOscillation.png, id=214, 1074.26344pt x 383.93437pt>
+<Ressources/PropagatingOscillation.png, id=249, 1074.26344pt x 383.93437pt>
 File: Ressources/PropagatingOscillation.png Graphic file (type png)
 <use Ressources/PropagatingOscillation.png>
 Package pdftex.def Info: Ressources/PropagatingOscillation.png  used on input l
@@ -1698,7 +1699,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 250--257
 
  []
 
-<Ressources/OscillationCombineVectors.png, id=215, 914.66719pt x 426.09187pt>
+<Ressources/OscillationCombineVectors.png, id=250, 914.66719pt x 426.09187pt>
 File: Ressources/OscillationCombineVectors.png Graphic file (type png)
 <use Ressources/OscillationCombineVectors.png>
 Package pdftex.def Info: Ressources/OscillationCombineVectors.png  used on inpu
@@ -1715,7 +1716,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [15 <./Ressources/PropagatingOscillation.png>]
-<Ressources/WindGradient.png, id=222, 1120.9378pt x 332.74312pt>
+<Ressources/WindGradient.png, id=257, 1120.9378pt x 332.74312pt>
 File: Ressources/WindGradient.png Graphic file (type png)
 <use Ressources/WindGradient.png>
 Package pdftex.def Info: Ressources/WindGradient.png  used on input line 274.
@@ -1736,7 +1737,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 358--360
 
  []
 
-<Ressources/ComplexeWave.png, id=231, 1398.72563pt x 634.62094pt>
+<Ressources/ComplexeWave.png, id=266, 1398.72563pt x 634.62094pt>
 File: Ressources/ComplexeWave.png Graphic file (type png)
 <use Ressources/ComplexeWave.png>
 Package pdftex.def Info: Ressources/ComplexeWave.png  used on input line 369.
@@ -1746,7 +1747,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 361--371
 
  []
 
-<Ressources/Opti.png, id=232, 1242.14063pt x 687.31781pt>
+<Ressources/Opti.png, id=267, 1242.14063pt x 687.31781pt>
 File: Ressources/Opti.png Graphic file (type png)
 <use Ressources/Opti.png>
 Package pdftex.def Info: Ressources/Opti.png  used on input line 376.
@@ -1794,24 +1795,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--18
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
  ***********
-
-
-Package rerunfilecheck Warning: File `documentation.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `documentation.out':
-(rerunfilecheck)             Before: 04274FAE92622A4458D574D58B9621E7;2547
-(rerunfilecheck)             After:  282A37CE1E62E75F15C818ECAF6C83D0;2984.
+Package rerunfilecheck Info: File `documentation.out' has not changed.
+(rerunfilecheck)             Checksum: 282A37CE1E62E75F15C818ECAF6C83D0;2984.
 Package logreq Info: Writing requests to 'documentation.run.xml'.
 \openout1 = `documentation.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 58094 strings out of 473681
- 1380060 string characters out of 5729093
- 2342441 words of memory out of 5000000
- 80335 multiletter control sequences out of 15000+600000
+ 58098 strings out of 473681
+ 1380119 string characters out of 5729093
+ 2343448 words of memory out of 5000000
+ 80339 multiletter control sequences out of 15000+600000
  582470 words of font info for 136 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,17n,93p,732b,2152s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1829,9 +1823,9 @@ ublic/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts
 ><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program
  Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTe
 X/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on documentation.pdf (20 pages, 19238705 bytes).
+Output written on documentation.pdf (20 pages, 19245658 bytes).
 PDF statistics:
- 347 PDF objects out of 1000 (max. 8388607)
+ 378 PDF objects out of 1000 (max. 8388607)
  76 named destinations out of 1000 (max. 500000)
- 263 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 295 words of extra memory for PDF output out of 10000 (max. 10000000)
 
